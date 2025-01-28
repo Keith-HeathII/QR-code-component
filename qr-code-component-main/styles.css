@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit';
+}
+
+.QR-Code-Component{
+    width: 275px;
+    padding: 15px;
+    margin: 55px auto;
+    text-align: center;
+    background-color: hsl(0,0%,100%);
+    border-radius: 15px;
+}
+
+.QR-code{
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    width: 275px;
+}
+
+h3{
+    font-size: 22px;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+}
