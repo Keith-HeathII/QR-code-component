@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(195, 214, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+  width: 275px;
+  margin: 50px auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-family: 'Outfit';
+ 
+}
+
+img{
+  width: 270px;
+  display: block;
+  margin: 3px auto;
+  border-radius: 10px;
+}
+
+h2{
+  font-size: 22px;
+  font-weight: 600;
+}
+
+p{
+  font-size: 16px;
+  font-weight: 450;
+  color: hsl(216, 15%, 48%)
+}
